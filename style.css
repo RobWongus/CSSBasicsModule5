@@ -1,0 +1,55 @@
+body {
+   background-color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: black;
+    
+}
+
+.text1 {
+    color: red;
+
+}
+
+.text2 {
+    color: blue;
+}
+
+.text3{
+    color: green;
+    
+}
+
+.text4 {
+    font-size: xx-large;
+}
+
+.text5 {
+    font-size: xx-small;
+}
+
+.text6 {
+    text-align: center;
+}
+
+.text7 {
+    font-weight: bolder;
+}
+
+.text8 {
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+.text9 {
+    font-weight: bold;
+    color: orange;
+    font-size: larger;
+}
+
