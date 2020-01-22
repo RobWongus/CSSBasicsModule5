@@ -53,3 +53,13 @@ h2 {
     font-size: larger;
 }
 
+.styledFont {
+    color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#styledImage {
+    border-width: 10px;
+    border-style: solid;
+    color: orange;
+}
